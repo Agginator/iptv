@@ -1,0 +1,241 @@
+#EXTM3U 
+#EXTINF: -1 group-title="Ungrouped", Das Erste HD
+rtsp://192.168.1.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6000,6010,1176,2172,2173,5107,5108,6020,6021,6022,6030,6031,6070
+#EXTINF: -1 group-title="Ungrouped", ZDF HD
+rtsp://192.168.1.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6100,6110,6120,6121,6122,6123,6130,6131,6170
+#EXTINF: -1 group-title="Ungrouped", WDR Köln HD
+rtsp://192.168.1.1:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,262,563,564,565,566,567,568,1671,1681,1682,1683,1684
+#EXTINF: -1 group-title="Ungrouped", EUROSPORT 1
+rtsp://192.168.1.1:554/?avm=1&freq=218&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,264,583,584,588
+#EXTINF: -1 group-title="Ungrouped", 3sat HD
+rtsp://192.168.1.1:554/?avm=1&freq=202&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554,555,556,557,558,1641,1651
+#EXTINF: -1 group-title="Ungrouped", arte HD
+rtsp://192.168.1.1:554/?avm=1&freq=114&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,257,513,514,515,516,517,518,1521,1522,1523,1531,1532
+#EXTINF: -1 group-title="Ungrouped", SAT.1
+rtsp://192.168.1.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,259,533,534,536,538,1591
+#EXTINF: -1 group-title="Ungrouped", RTL
+rtsp://192.168.1.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,258,523,524,525,528,1551,1561,1562,1563
+#EXTINF: -1 group-title="Ungrouped", DMAX
+rtsp://192.168.1.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,548,1621
+#EXTINF: -1 group-title="Ungrouped", SPORT1
+rtsp://192.168.1.1:554/?avm=1&freq=218&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,266,603,604,608,1801
+#EXTINF: -1 group-title="Ungrouped", ProSieben
+rtsp://192.168.1.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,546,548,1621
+#EXTINF: -1 group-title="Ungrouped", COMEDY CENTRAL
+rtsp://192.168.1.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,257,513,514,515,1531
+#EXTINF: -1 group-title="Ungrouped", CNN
+rtsp://192.168.1.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554
+#EXTINF: -1 group-title="Ungrouped", ProSieben MAXX
+rtsp://192.168.1.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,267,613,614,618,1831
+#EXTINF: -1 group-title="Ungrouped", Al Jazeera International
+rtsp://192.168.1.1:554/?avm=1&freq=186&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544
+#EXTINF: -1 group-title="Ungrouped", Bloomberg
+rtsp://192.168.1.1:554/?avm=1&freq=274&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,264,583,584
+#EXTINF: -1 group-title="Ungrouped", Nick
+rtsp://192.168.1.1:554/?avm=1&freq=226&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,265,593,594,595,1771
+#EXTINF: -1 group-title="Ungrouped", Nitro
+rtsp://192.168.1.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,267,613,614,618,1821,1831,1832,1833
+#EXTINF: -1 group-title="Ungrouped", SAT.1 GOLD
+rtsp://192.168.1.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,266,603,604,608,1801
+#EXTINF: -1 group-title="Ungrouped", Tele 5
+rtsp://192.168.1.1:554/?avm=1&freq=218&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,268,623,624,628
+#EXTINF: -1 group-title="Ungrouped", ntv
+rtsp://192.168.1.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,266,593,594,595,598,1801,1802,1803
+#EXTINF: -1 group-title="Ungrouped", RTLup
+rtsp://192.168.1.1:554/?avm=1&freq=266&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,259,533,534,538,1591,1592,1593
+#EXTINF: -1 group-title="Ungrouped", WELT
+rtsp://192.168.1.1:554/?avm=1&freq=218&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,267,613,614
+#EXTINF: -1 group-title="Ungrouped", ServusTV HD
+rtsp://192.168.1.1:554/?avm=1&freq=194&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,258,523,524,525,526,528,1561
+#EXTINF: -1 group-title="Ungrouped", SIXX
+rtsp://192.168.1.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,102,623,624,628,1861
+#EXTINF: -1 group-title="Ungrouped", BILD HD
+rtsp://192.168.1.1:554/?avm=1&freq=154&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,264,583,584
+#EXTINF: -1 group-title="Ungrouped", hr-fernsehen HD
+rtsp://192.168.1.1:554/?avm=1&freq=242&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554,555,556,557,558,1641,1651,1652,1653
+#EXTINF: -1 group-title="Ungrouped", BR Fernsehen Süd HD
+rtsp://192.168.1.1:554/?avm=1&freq=250&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,258,523,524,525,526,527,528,1551,1561,1562,1563,1564,5209
+#EXTINF: -1 group-title="Ungrouped", MDR Thüringen HD
+rtsp://192.168.1.1:554/?avm=1&freq=250&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,262,563,564,565,566,567,568,1671,1681,1682,1683,3672
+#EXTINF: -1 group-title="Ungrouped", NDR Niedersachsen HD
+rtsp://192.168.1.1:554/?avm=1&freq=250&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,257,513,514,515,516,517,518,1521,1531,1532,1533,1534
+#EXTINF: -1 group-title="Ungrouped", rbb Berlin HD
+rtsp://192.168.1.1:554/?avm=1&freq=258&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,262,563,564,565,566,567,568,1671,1681,1682,1683,3772
+#EXTINF: -1 group-title="Ungrouped", SR Fernsehen HD
+rtsp://192.168.1.1:554/?avm=1&freq=250&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554,555,556,557,558,1641,1652,1653,4370,4372
+#EXTINF: -1 group-title="Ungrouped", Radio Bremen TV HD
+rtsp://192.168.1.1:554/?avm=1&freq=186&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,262,563,564,565,567,568,1671,1681,1682,1683,1684
+#EXTINF: -1 group-title="Ungrouped", SWR BW HD
+rtsp://192.168.1.1:554/?avm=1&freq=242&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,262,563,564,565,566,567,568,1671,1681,1682,1683
+#EXTINF: -1 group-title="Ungrouped", NRWision HD
+rtsp://192.168.1.1:554/?avm=1&freq=138&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,1621
+#EXTINF: -1 group-title="Ungrouped", QVC HD
+rtsp://192.168.1.1:554/?avm=1&freq=194&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,259,533,534,538,1591
+#EXTINF: -1 group-title="Ungrouped", HSE HD
+rtsp://192.168.1.1:554/?avm=1&freq=194&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,548,1286,1621
+#EXTINF: -1 group-title="Ungrouped", Sonnenklar TV HD
+rtsp://192.168.1.1:554/?avm=1&freq=242&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,257,513,514,518,1531
+#EXTINF: -1 group-title="Ungrouped", 1-2-3.TV HD
+rtsp://192.168.1.1:554/?avm=1&freq=242&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,258,523,524,528,1561
+#EXTINF: -1 group-title="Ungrouped", QVC ZWEI HD
+rtsp://192.168.1.1:554/?avm=1&freq=234&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,258,523,524,528,1561
+#EXTINF: -1 group-title="Ungrouped", HSE Extra HD
+rtsp://192.168.1.1:554/?avm=1&freq=258&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554,558,1651
+#EXTINF: -1 group-title="Ungrouped", QVC Style HD
+rtsp://192.168.1.1:554/?avm=1&freq=250&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,259,533,534,538,1591
+#EXTINF: -1 group-title="Ungrouped", Shop LC HD
+rtsp://192.168.1.1:554/?avm=1&freq=370&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,272,663,664,665
+#EXTINF: -1 group-title="Ungrouped", ZDFinfo HD
+rtsp://192.168.1.1:554/?avm=1&freq=218&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,262,563,564,565,566,567,568,1671,1681
+#EXTINF: -1 group-title="Ungrouped", ARD alpha HD
+rtsp://192.168.1.1:554/?avm=1&freq=202&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,262,563,564,565,566,567,568,1671,1681,1682,1683
+#EXTINF: -1 group-title="Ungrouped", Bibel TV HD
+rtsp://192.168.1.1:554/?avm=1&freq=114&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,548,1621
+#EXTINF: -1 group-title="Ungrouped", KiKA HD
+rtsp://192.168.1.1:554/?avm=1&freq=122&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,545,546,547,548,1611,1621
+#EXTINF: -1 group-title="Ungrouped", ZDF_neo HD
+rtsp://192.168.1.1:554/?avm=1&freq=194&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554,555,556,557,558,1641,1651
+#EXTINF: -1 group-title="Ungrouped", ONE HD
+rtsp://192.168.1.1:554/?avm=1&freq=210&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554,555,556,557,558,1641,1651,1652,1653
+#EXTINF: -1 group-title="Ungrouped", phoenix HD
+rtsp://192.168.1.1:554/?avm=1&freq=114&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554,555,558,1651,1652
+#EXTINF: -1 group-title="Ungrouped", tagesschau24 HD
+rtsp://192.168.1.1:554/?avm=1&freq=250&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,545,546,547,548,1621,1622,1623,4072
+#EXTINF: -1 group-title="Ungrouped", Vodafone TV
+rtsp://192.168.1.1:554/?avm=1&freq=610&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=0&pids=0,16,17,18,20,305,993
+#EXTINF: -1 group-title="Ungrouped", Das Erste
+rtsp://192.168.1.1:554/?avm=1&freq=314&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,84,102,103,104,105,106,1176,2070,2171
+#EXTINF: -1 group-title="Ungrouped", ZDF
+rtsp://192.168.1.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,110,120,121,122,125,130,131,950
+#EXTINF: -1 group-title="Ungrouped", VOX
+rtsp://192.168.1.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554,558,1641,1651,1652,1653
+#EXTINF: -1 group-title="Ungrouped", kabel eins
+rtsp://192.168.1.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,263,573,574,578,1711
+#EXTINF: -1 group-title="Ungrouped", RTLZWEI
+rtsp://192.168.1.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,262,563,564,568,1671,1681,1682,1683
+#EXTINF: -1 group-title="Ungrouped", 3sat
+rtsp://192.168.1.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,210,220,221,222,225,230,231,250
+#EXTINF: -1 group-title="Ungrouped", ServusTV
+rtsp://192.168.1.1:554/?avm=1&freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,262,563,565,568,1681
+#EXTINF: -1 group-title="Ungrouped", WDR Köln
+rtsp://192.168.1.1:554/?avm=1&freq=314&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,600,601,602,603,604,605,2171,2370,2376
+#EXTINF: -1 group-title="Ungrouped", WDR Duisburg
+rtsp://192.168.1.1:554/?avm=1&freq=130&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,259,533,534,535,538,1581,1591,1592,2376
+#EXTINF: -1 group-title="Ungrouped", WDR Düsseldorf
+rtsp://192.168.1.1:554/?avm=1&freq=130&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,50,544,545,548,1611,1621,1622
+#EXTINF: -1 group-title="Ungrouped", hr-fernsehen
+rtsp://192.168.1.1:554/?avm=1&freq=314&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,300,301,302,303,304,2171,2270,2276
+#EXTINF: -1 group-title="Ungrouped", BR Fernsehen Süd
+rtsp://192.168.1.1:554/?avm=1&freq=314&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,201,202,203,204,205,206,1076,2171,2178
+#EXTINF: -1 group-title="Ungrouped", BR Fernsehen Nord
+rtsp://192.168.1.1:554/?avm=1&freq=314&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,500,501,205,502,503,504,506,1076,2171,2178
+#EXTINF: -1 group-title="Ungrouped", MDR Sachsen
+rtsp://192.168.1.1:554/?avm=1&freq=322&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2800,2901,2171,2870,2876,2902,2903,2904,2905
+#EXTINF: -1 group-title="Ungrouped", MDR S-Anhalt
+rtsp://192.168.1.1:554/?avm=1&freq=322&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2900,2901,2171,2870,2876,2902,2903,2904,2905
+#EXTINF: -1 group-title="Ungrouped", MDR Thüringen
+rtsp://192.168.1.1:554/?avm=1&freq=322&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3000,2901,2171,2870,2876,2902,2903,2904,2905
+#EXTINF: -1 group-title="Ungrouped", NDR FS NDS
+rtsp://192.168.1.1:554/?avm=1&freq=322&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2600,2601,2171,2602,2603,2604,2670,2676
+#EXTINF: -1 group-title="Ungrouped", NDR FS HH
+rtsp://192.168.1.1:554/?avm=1&freq=322&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2500,2601,2171,2602,2603,2604,2670,2676
+#EXTINF: -1 group-title="Ungrouped", NDR FS SH
+rtsp://192.168.1.1:554/?avm=1&freq=322&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2700,2601,2171,2602,2603,2604,2670,2676
+#EXTINF: -1 group-title="Ungrouped", NDR FS MV
+rtsp://192.168.1.1:554/?avm=1&freq=322&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2400,2601,2171,2602,2603,2604,2670,2676
+#EXTINF: -1 group-title="Ungrouped", rbb Brandenburg
+rtsp://192.168.1.1:554/?avm=1&freq=322&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,500,601,602,603,604,670,2171,2176
+#EXTINF: -1 group-title="Ungrouped", rbb Berlin
+rtsp://192.168.1.1:554/?avm=1&freq=322&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,600,601,602,603,604,670,2171,2176
+#EXTINF: -1 group-title="Ungrouped", SR Fernsehen
+rtsp://192.168.1.1:554/?avm=1&freq=290&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,270,643,644,645,648,1921,1922,1923
+#EXTINF: -1 group-title="Ungrouped", Radio Bremen TV
+rtsp://192.168.1.1:554/?avm=1&freq=290&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,271,653,654,658,1951,1952,1953
+#EXTINF: -1 group-title="Ungrouped", SWR Fernsehen RP
+rtsp://192.168.1.1:554/?avm=1&freq=322&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3100,3101,2171,2470,2476,3102,3103,3104,3106
+#EXTINF: -1 group-title="Ungrouped", SWR Fernsehen BW
+rtsp://192.168.1.1:554/?avm=1&freq=314&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,800,801,802,803,804,806,1270,2171,2476
+#EXTINF: -1 group-title="Ungrouped", STUDIO 47
+rtsp://192.168.1.1:554/?avm=1&freq=130&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,273,529,785,1044,1297
+#EXTINF: -1 group-title="Ungrouped", QVC
+rtsp://192.168.1.1:554/?avm=1&freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,263,573,574,578,1711
+#EXTINF: -1 group-title="Ungrouped", HSE
+rtsp://192.168.1.1:554/?avm=1&freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,264,583,584,588,1741
+#EXTINF: -1 group-title="Ungrouped", sonnenklar.TV
+rtsp://192.168.1.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,262,563,564,568,1681
+#EXTINF: -1 group-title="Ungrouped", 1-2-3.tv
+rtsp://192.168.1.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,259,533,534,538,1591
+#EXTINF: -1 group-title="Ungrouped", Juwelo
+rtsp://192.168.1.1:554/?avm=1&freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,259,533,534,1591
+#EXTINF: -1 group-title="Ungrouped", Channel21
+rtsp://192.168.1.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,258,523,524
+#EXTINF: -1 group-title="Ungrouped", Handystar
+rtsp://192.168.1.1:554/?avm=1&freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,270,643,644
+#EXTINF: -1 group-title="Ungrouped", QVC ZWEI
+rtsp://192.168.1.1:554/?avm=1&freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,257,513,514,518,1531
+#EXTINF: -1 group-title="Ungrouped", HSE Extra
+rtsp://192.168.1.1:554/?avm=1&freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,265,593,594,598,1771
+#EXTINF: -1 group-title="Ungrouped", HSE Trend
+rtsp://192.168.1.1:554/?avm=1&freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554,558,1651
+#EXTINF: -1 group-title="Ungrouped", Shop LC
+rtsp://192.168.1.1:554/?avm=1&freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,275,693,694
+#EXTINF: -1 group-title="Ungrouped", Astro TV
+rtsp://192.168.1.1:554/?avm=1&freq=298&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,268,623,624,1861
+#EXTINF: -1 group-title="Ungrouped", ZDFinfo
+rtsp://192.168.1.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,600,610,620,621,622,625,630,631,640
+#EXTINF: -1 group-title="Ungrouped", TLC
+rtsp://192.168.1.1:554/?avm=1&freq=186&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,274,683,684,688,2041
+#EXTINF: -1 group-title="Ungrouped", kabel eins Doku
+rtsp://192.168.1.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,271,653,654,658,1951
+#EXTINF: -1 group-title="Ungrouped", N24 Doku
+rtsp://192.168.1.1:554/?avm=1&freq=266&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,271,653,654
+#EXTINF: -1 group-title="Ungrouped", Bibel TV
+rtsp://192.168.1.1:554/?avm=1&freq=298&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,266,603,604,608,1801
+#EXTINF: -1 group-title="Ungrouped", DIE NEUE ZEIT TV
+rtsp://192.168.1.1:554/?avm=1&freq=210&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,267,613,614
+#EXTINF: -1 group-title="Ungrouped", Home & Garden TV
+rtsp://192.168.1.1:554/?avm=1&freq=186&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,264,583,584,1741
+#EXTINF: -1 group-title="Ungrouped", k-tv
+rtsp://192.168.1.1:554/?avm=1&freq=298&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554
+#EXTINF: -1 group-title="Ungrouped", SonLife
+rtsp://192.168.1.1:554/?avm=1&freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,272,663,664
+#EXTINF: -1 group-title="Ungrouped", HopeTV
+rtsp://192.168.1.1:554/?avm=1&freq=298&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,271,653,654
+#EXTINF: -1 group-title="Ungrouped", DELUXE MUSIC
+rtsp://192.168.1.1:554/?avm=1&freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,1621
+#EXTINF: -1 group-title="Ungrouped", Deutsches Musik Fernsehen
+rtsp://192.168.1.1:554/?avm=1&freq=266&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,269,633,634,638,1891
+#EXTINF: -1 group-title="Ungrouped", MTV
+rtsp://192.168.1.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,263,573,574,575,1711
+#EXTINF: -1 group-title="Ungrouped", SCHLAGER DELUXE
+rtsp://192.168.1.1:554/?avm=1&freq=346&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544
+#EXTINF: -1 group-title="Ungrouped", Super RTL
+rtsp://192.168.1.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,265,583,584,588,1761,1771,1772,1773
+#EXTINF: -1 group-title="Ungrouped", KiKA
+rtsp://192.168.1.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,300,310,320,321,322,325,330,331,350
+#EXTINF: -1 group-title="Ungrouped", TOGGO plus
+rtsp://192.168.1.1:554/?avm=1&freq=346&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554,558,1651
+#EXTINF: -1 group-title="Ungrouped", RiC
+rtsp://192.168.1.1:554/?avm=1&freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,269,633,634
+#EXTINF: -1 group-title="Ungrouped", zdf_neo
+rtsp://192.168.1.1:554/?avm=1&freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,650,660,670,671,672,675,680,681,690
+#EXTINF: -1 group-title="Ungrouped", Disney SD
+rtsp://192.168.1.1:554/?avm=1&freq=210&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,263,573,574,578
+#EXTINF: -1 group-title="Ungrouped", VOXup
+rtsp://192.168.1.1:554/?avm=1&freq=290&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,276,703,704,708,2101,2102,2103
+#EXTINF: -1 group-title="Ungrouped", euronews (D)
+rtsp://192.168.1.1:554/?avm=1&freq=290&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,275,633,694
+#EXTINF: -1 group-title="Ungrouped", CGTN Documentary
+rtsp://192.168.1.1:554/?avm=1&freq=346&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,267,619,613,614
+#EXTINF: -1 group-title="Ungrouped", CGTN
+rtsp://192.168.1.1:554/?avm=1&freq=210&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,266,603,604
+#EXTINF: -1 group-title="Ungrouped", CNBC
+rtsp://192.168.1.1:554/?avm=1&freq=274&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,259,533,534
+#EXTINF: -1 group-title="Ungrouped", NHK WORLD-JAPAN
+rtsp://192.168.1.1:554/?avm=1&freq=298&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,259,533,534
+#EXTINF: -1 group-title="Ungrouped", TRT Türk
+rtsp://192.168.1.1:554/?avm=1&freq=226&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,266,603,604,608
+#EXTINF: -1 group-title="Ungrouped", Nederland 2
+rtsp://192.168.1.1:554/?avm=1&freq=138&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,267,613,614,618
+#EXTINF: -1 group-title="Ungrouped", TV5MONDE Europe
+rtsp://192.168.1.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,264,583,584,588,1731,1732,1733,1734,1735,1736,1737
